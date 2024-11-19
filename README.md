@@ -2,8 +2,8 @@
 
 ## Project Title: *Aman E-commerce Sales Dashboard
 
-![E-commerce Dashboard Screenshot](Sales Dashboard.png)
-![E-commerce Dashboard Screenshot](assets/dashboard.png)
+![E-commerce Dashboard Screenshot](assests/Sales Dashboard.png)
+
 
 ## Objective:  
 This project aims to provide a clear and interactive visualization of sales performance for an e-commerce business. The dashboard is designed to help stakeholders make informed decisions by analyzing key metrics such as profit, sales quantity, customer spending, and payment modes.
