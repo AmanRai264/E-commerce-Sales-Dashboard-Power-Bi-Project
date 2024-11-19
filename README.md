@@ -2,7 +2,8 @@
 
 ## Project Title: *Aman E-commerce Sales Dashboard
 
-![](C:\Users\aman rai\Downloads\Eccomerce Sales Dashboard Project)
+![E-commerce Dashboard Screenshot](C:/Users/aman rai/Downloads/Eccomerce Sales Dashboard Project/Sales Dashboard.png)
+![E-commerce Dashboard Screenshot](assets/dashboard.png)
 
 ## Objective:  
 This project aims to provide a clear and interactive visualization of sales performance for an e-commerce business. The dashboard is designed to help stakeholders make informed decisions by analyzing key metrics such as profit, sales quantity, customer spending, and payment modes.
