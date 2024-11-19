@@ -2,7 +2,7 @@
 
 ## Project Title: *Aman E-commerce Sales Dashboard
 
-![E-commerce Dashboard Screenshot](C:/Users/aman rai/Downloads/Eccomerce Sales Dashboard Project/Sales Dashboard.png)
+![E-commerce Dashboard Screenshot](Sales Dashboard.png)
 ![E-commerce Dashboard Screenshot](assets/dashboard.png)
 
 ## Objective:  
